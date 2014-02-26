@@ -43,3 +43,6 @@ end
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+
+# Paypal REST SDK
+gem 'paypal-sdk-rest'
